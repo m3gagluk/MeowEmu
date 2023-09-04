@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeowEmu", "MeowEmu\MeowEmu.csproj", "{7321DEAA-8651-4CB2-8A0D-44212E522A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7321DEAA-8651-4CB2-8A0D-44212E522A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7321DEAA-8651-4CB2-8A0D-44212E522A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7321DEAA-8651-4CB2-8A0D-44212E522A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7321DEAA-8651-4CB2-8A0D-44212E522A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D74C6973-06BA-4EE0-AD4B-F80B357F3533}
+	EndGlobalSection
+EndGlobal
